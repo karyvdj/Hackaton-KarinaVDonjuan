@@ -1,0 +1,70 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #485465;
+  font-size: 16px;
+  letter-spacing: -0.1px;
+}
+.gray-background{
+  background-color: #5a6574;
+}
+.text-gray{
+  color: #161032;
+}
+.text-lightblue{
+  color: #53a8e2;
+}
+.text-cyan{
+  color: #76ddfb
+}
+.text-blue{
+   color: #2c82be;
+}
+.text-uppercase{
+  text-transform: uppercase;
+}
+.circle-blue{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #75c8f6;
+}
+.uk-navbar{
+  height: 50px;
+}
+.text-graph-porcent{
+  font-size: 20px;
+  font-weight:100;
+}
+.title{
+  font-size: 15px;
+}
+.uk-navbar-nav>li>a{
+  height: 60px;
+  padding: 0 30px;
+}
+.uk-navbar-nav>li>a{
+  text-transform: none;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 300;
+}
+.uk-navbar-nav>li>a:hover,
+.uk-navbar-nav>li.uk-active>a{
+  background-color: #2c82be;
+  color:#ffffff;
+}
+.img-size-avatar{
+  height: 89px;
+  width: 89px;
+  filter: grayscale();
+}
+.uk-card{
+  border-radius: 4px;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1);
+}
+.uk-panel .uk-align-left{
+  margin-right: 5px
+}
+.uk-card-footer>a{
+  font-size: 11px;
+}
